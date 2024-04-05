@@ -1,5 +1,5 @@
 apiVersion: v2
-name: todo-helm
+name: todo
 description: Todo Example Application
 type: application
 version: 1.0.0

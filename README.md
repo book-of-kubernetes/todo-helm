@@ -1,3 +1,3 @@
-# todo-helm
+# todo
 Helm Chart for Todo
 

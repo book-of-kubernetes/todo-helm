@@ -7,7 +7,6 @@ image:
   tag: ""
 
 imagePullSecrets: []
-nameOverride: "todo"
 fullnameOverride: ""
 
 prefix: "/"
